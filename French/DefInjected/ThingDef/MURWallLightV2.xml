@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Lighting_MURWallLightVII.label>Applique Murale</Lighting_MURWallLightVII.label>
+  <Lighting_MURWallLightVII.description>Un luminaire conçu pour être monté sur un mur.</Lighting_MURWallLightVII.description>
+  <Blueprint_Lighting_MURWallLightVII.label>Applique Murale</Blueprint_Lighting_MURWallLightVII.label>
+  <Blueprint_Install_Lighting_MURWallLightVII.label>Applique Murale</Blueprint_Install_Lighting_MURWallLightVII.label>
+  <Frame_Lighting_MURWallLightVII.label>Applique Murale</Frame_Lighting_MURWallLightVII.label>
+  <Frame_Lighting_MURWallLightVII.description>Un luminaire conçu pour être monté sur un mur.</Frame_Lighting_MURWallLightVII.description>
+
+  <Lighting_MURWallLightRedVII.label>Applique Murale (rouge)</Lighting_MURWallLightRedVII.label>
+  <Lighting_MURWallLightRedVII.description>Un luminaire conçu pour être monté sur un mur, de couleur rouge.</Lighting_MURWallLightRedVII.description>
+  <Blueprint_Lighting_MURWallLightRedVII.label>Applique Murale (rouge)</Blueprint_Lighting_MURWallLightRedVII.label>
+  <Blueprint_Install_Lighting_MURWallLightRedVII.label>Applique Murale (rouge)</Blueprint_Install_Lighting_MURWallLightRedVII.label>
+  <Frame_Lighting_MURWallLightRedVII.label>Applique Murale (rouge)</Frame_Lighting_MURWallLightRedVII.label>
+  <Frame_Lighting_MURWallLightRedVII.description>Un luminaire conçu pour être monté sur un mur, de couleur rouge.</Frame_Lighting_MURWallLightRedVII.description>
+
+  <Lighting_MURWallLightGreenVII.label>Applique Murale (verte)</Lighting_MURWallLightGreenVII.label>
+  <Lighting_MURWallLightGreenVII.description>Un luminaire conçu pour être monté sur un mur, de couleur verte.</Lighting_MURWallLightGreenVII.description>
+  <Blueprint_Lighting_MURWallLightGreenVII.label>Applique Murale (verte)</Blueprint_Lighting_MURWallLightGreenVII.label>
+  <Blueprint_Install_Lighting_MURWallLightGreenVII.label>Applique Murale (verte)</Blueprint_Install_Lighting_MURWallLightGreenVII.label>
+  <Frame_Lighting_MURWallLightGreenVII.label>Applique Murale (verte)</Frame_Lighting_MURWallLightGreenVII.label>
+  <Frame_Lighting_MURWallLightGreenVII.description>Un luminaire conçu pour être monté sur un mur, de couleur verte.</Frame_Lighting_MURWallLightGreenVII.description>
+
+  <Lighting_MURWallLightBlueVII.label>Applique Murale (bleue)</Lighting_MURWallLightBlueVII.label>
+  <Lighting_MURWallLightBlueVII.description>Un luminaire conçu pour être monté sur un mur, de couleur bleue.</Lighting_MURWallLightBlueVII.description>
+  <Blueprint_Lighting_MURWallLightBlueVII.label>Applique Murale (bleue)</Blueprint_Lighting_MURWallLightBlueVII.label>
+  <Blueprint_Install_Lighting_MURWallLightBlueVII.label>Applique Murale (bleue)</Blueprint_Install_Lighting_MURWallLightBlueVII.label>
+  <Frame_Lighting_MURWallLightBlueVII.label>Applique Murale (bleue)</Frame_Lighting_MURWallLightBlueVII.label>
+  <Frame_Lighting_MURWallLightBlueVII.description>Un luminaire conçu pour être monté sur un mur, de couleur bleue.</Frame_Lighting_MURWallLightBlueVII.description>
+
+  <Lighting_MURWallLightVII_Glower.label>Applique Murale</Lighting_MURWallLightVII_Glower.label>
+  <Lighting_MURWallLightVII_Glower.description>Un luminaire conçu pour être monté sur un mur.</Lighting_MURWallLightVII_Glower.description>
+
+  <Lighting_MURWallLightVII_GlowerRed.label>Applique Murale (rouge)</Lighting_MURWallLightVII_GlowerRed.label>
+  <Lighting_MURWallLightVII_GlowerRed.description>Un luminaire conçu pour être monté sur un mur, de couleur rouge.</Lighting_MURWallLightVII_GlowerRed.description>
+
+  <Lighting_MURWallLightVII_GlowerGreen.label>Applique Murale (verte)</Lighting_MURWallLightVII_GlowerGreen.label>
+  <Lighting_MURWallLightVII_GlowerGreen.description>Un luminaire conçu pour être monté sur un mur, de couleur verte.</Lighting_MURWallLightVII_GlowerGreen.description>
+
+  <Lighting_MURWallLightVII_GlowerBlue.label>Applique Murale (bleue)</Lighting_MURWallLightVII_GlowerBlue.label>
+  <Lighting_MURWallLightVII_GlowerBlue.description>Un luminaire conçu pour être monté sur un mur, de couleur bleue.</Lighting_MURWallLightVII_GlowerBlue.description>
+
+</LanguageData>

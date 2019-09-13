@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Lighting_MURWallLight.label>Applique Murale (VIEUX)</Lighting_MURWallLight.label>
+  <Lighting_MURWallLight.description>A light fixture designed to be mounted on a wall.</Lighting_MURWallLight.description>
+  <Blueprint_Install_Lighting_MURWallLight.label>Applique (vieux). Déplacer.</Blueprint_Install_Lighting_MURWallLight.label>
+
+  <Lighting_MURWallLightRed.label>Applique Murale ((rouge) VIEUX)</Lighting_MURWallLightRed.label>
+  <Lighting_MURWallLightRed.description>A light fixture designed to be mounted on a wall, colored red.</Lighting_MURWallLightRed.description>
+  <Blueprint_Install_Lighting_MURWallLightRed.label>Applique rouge (vieux). Déplacer.</Blueprint_Install_Lighting_MURWallLightRed.label>
+
+  <Lighting_MURWallLightGreen.label>Applique Murale ((verte) VIEUX)</Lighting_MURWallLightGreen.label>
+  <Lighting_MURWallLightGreen.description>A light fixture designed to be mounted on a wall, colored green.</Lighting_MURWallLightGreen.description>
+  <Blueprint_Install_Lighting_MURWallLightGreen.label>Applique verte (vieux). Déplacer.</Blueprint_Install_Lighting_MURWallLightGreen.label>
+
+  <Lighting_MURWallLightBlue.label>Applique Murale ((bleue) VIEUX)</Lighting_MURWallLightBlue.label>
+  <Lighting_MURWallLightBlue.description>A light fixture designed to be mounted on a wall, colored blue.</Lighting_MURWallLightBlue.description>
+  <Blueprint_Install_Lighting_MURWallLightBlue.label>Applique bleue (vieux). Déplacer.</Blueprint_Install_Lighting_MURWallLightBlue.label>
+
+</LanguageData>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+	<MURWallLight_LightRadName>Rayon de lumière</MURWallLight_LightRadName>
+	<MURWallLight_LightRadDesc>Distance à laquelle la lumière rayonne de la source. Par défaut: 8</MURWallLight_LightRadDesc>
+	<MURWallLight_SteelCostName>Coût en acier</MURWallLight_SteelCostName>
+	<MURWallLight_SteelCostDesc>Combien d'acier coûte une lumière à construire. Par défaut: 5</MURWallLight_SteelCostDesc>
+	<MURWallLight_PowerCostName>Coût d'énergie</MURWallLight_PowerCostName>
+	<MURWallLight_PowerCostDesc>Puissance que consomme une lumière. Par défaut: 10</MURWallLight_PowerCostDesc>
+	<MURWallLight_ShowRadiusName>Afficher la zone éclairée (EXPERIMENTALE)</MURWallLight_ShowRadiusName>
+	<MURWallLight_ShowRadiusDesc>Afficher la zone approximative autour des lumières qui seront allumées. EXPERIMENTALE: Actuellement, fonctionne uniquement avec le rayon de lumière par défaut de 8.</MURWallLight_ShowRadiusDesc>
+	
+	<MURWallLight_WarningNeedWall>Doit être placé sur un mur.</MURWallLight_WarningNeedWall>
+	<MURWallLight_WarningBlocked>Doit être face à une case praticable.</MURWallLight_WarningBlocked>
+	<MURWallLight_WarningBoth>Doit être placé sur un mur, face à une case praticable.</MURWallLight_WarningBoth>
+	
+	<MURWallLight_AlertDisableRadius>Afficher la zone éclairée ne fonctionne actuellement qu'avec le paramètre de rayon de lumière par défaut de 8. Désactivation.</MURWallLight_AlertDisableRadius>
+	<MURWallLight_AlertReload>Sauvegardez et chargez le jeu pour que les modifications prennent effet.</MURWallLight_AlertReload>
+	
+	<MURWallLight_DestroyedBlocked>Lumière détruite par la construction.</MURWallLight_DestroyedBlocked>
+	<MURWallLight_DestroyedWall>Lumière détruite par la destruction du mur.</MURWallLight_DestroyedWall>
+</LanguageData>
